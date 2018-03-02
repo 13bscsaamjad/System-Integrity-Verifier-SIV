@@ -1,0 +1,29 @@
+Path to Monitored Directory: /home/abdullah/Desktop/linux-4.14.5
+Path to Verification File: /home/abdullah/Desktop/verfile.txt
+Path to Report File: /home/abdullah/Desktop/verrepfile.txt
+Number of directories parsed: 4306
+Number of files parsed: 61275
+Number of warnings issued: 12
+Time to complete the verification mode: 54.22516965866089 seconds
+**************************************************************************
+New Files/Directories:
+/home/abdullah/Desktop/linux-4.14.5/README-SUBSTITUTE
+Removed Files/Directories:
+/home/abdullah/Desktop/linux-4.14.5/README
+Files/Directories with different size:
+/home/abdullah/Desktop/linux-4.14.5/Makefile
+Files with different hash:
+/home/abdullah/Desktop/linux-4.14.5/Makefile
+Files/Directories with different user:
+None
+Files/Directories with different group:
+/home/abdullah/Desktop/linux-4.14.5/usr
+Files/Directories with different access rights:
+/home/abdullah/Desktop/linux-4.14.5/usr
+/home/abdullah/Desktop/linux-4.14.5/usr/gen_init_cpio.c
+/home/abdullah/Desktop/linux-4.14.5/usr/initramfs_data.S
+/home/abdullah/Desktop/linux-4.14.5/usr/.gitignore
+/home/abdullah/Desktop/linux-4.14.5/usr/Kconfig
+/home/abdullah/Desktop/linux-4.14.5/usr/Makefile
+Files/Directories with different modification date:
+/home/abdullah/Desktop/linux-4.14.5/Makefile
